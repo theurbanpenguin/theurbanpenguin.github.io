@@ -13,4 +13,10 @@
 ## Coding in Python
 - [Python Weather App](https://theurbanpenguin.github.io/weather_app/)
 
+## Apprenticeships
+### DevOps Engineer KSBs
+- K1: [Continuous Integration](https://youtu.be/_wLuEHDTtCk)
+- K2: [Source Control](https://youtu.be/8xpvAXplWMc)
+
+
 Thank you for visiting
