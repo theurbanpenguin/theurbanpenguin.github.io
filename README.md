@@ -17,6 +17,7 @@
 ### DevOps Engineer KSBs
 - K1: [Continuous Integration](https://youtu.be/_wLuEHDTtCk)
 - K2: [Source Control](https://youtu.be/8xpvAXplWMc)
+- K3: [Ethical Use of Data](https://youtu.be/7oQL200w01s)
 
 
 Thank you for visiting
