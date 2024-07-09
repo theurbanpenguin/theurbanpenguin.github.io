@@ -1,5 +1,5 @@
 # The Urban Penguin
-> Linux expert and tutor based in the UK find my video tutorials on [YouTube](https://youtube.com/theurbanpenguin) linked through repositories on this site.
+> The Urban Penguin, led by Linux expert Andrew Mallett, offers comprehensive Linux training and resources. Known for their cost-effective and high-quality training, they provide a variety of learning materials including free tutorials, online courses, and live classes. Their focus is on promoting Linux and open-source software, offering training that spans from basic Linux essentials to advanced certifications like LPIC-1 through LPIC-3. Their approach emphasizes practical skills across different Linux distributions, ensuring a well-rounded education for aspiring Linux professionals. [YouTube](https://youtube.com/theurbanpenguin)                           
 
 ---
 ## Vagrant Images
