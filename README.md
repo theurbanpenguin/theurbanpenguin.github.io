@@ -18,6 +18,7 @@
 - K1: [Continuous Integration](https://youtu.be/_wLuEHDTtCk)
 - K2: [Source Control](https://youtu.be/8xpvAXplWMc)
 - K3: [Ethical Use of Data](https://youtu.be/7oQL200w01s)
+- K4: [Business Value of DevOps](https://youtu.be/YmbrbFUpcEI)
 
 
 Thank you for visiting
