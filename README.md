@@ -22,6 +22,7 @@
 - K3: [Ethical Use of Data](https://youtu.be/7oQL200w01s)
 - K4: [Business Value of DevOps](https://youtu.be/YmbrbFUpcEI)
 - K5: [Modern Security Tools](https://youtu.be/N2hLR16lK3Y)
+- S5: [Immutable Infrastructure](https://youtu.be/t3O4PVImrK8)
 
 
 Thank you for visiting
