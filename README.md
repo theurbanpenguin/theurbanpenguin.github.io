@@ -8,6 +8,7 @@
 ---
 ## Working with Git
 - [Configuring the Git Daemon](https://theurbanpenguin.github.io/git-daemon/)
+- [Configuring Git with Apache](https://theurbanpenguin.github.io/git-httpd/)
 
 ---
 ## Coding in Python
