@@ -24,6 +24,7 @@
 - K4: [Business Value of DevOps](https://youtu.be/YmbrbFUpcEI)
 - K5: [Modern Security Tools](https://youtu.be/N2hLR16lK3Y)
 - K6: [Effective Troubleshooting Methodologies](https://youtu.be/PQ8RW9plv0g)
+- K7: [General Purpose Coding,Ansible and Terraform](https://youtu.be/zxUw3sPuvVc)
 - S5: [Immutable Infrastructure](https://youtu.be/t3O4PVImrK8)
 - S6: [Install, Manage and Troubleshoot Monitoring Tools](https://theurbanpenguin.github.io/elastic/)
 
