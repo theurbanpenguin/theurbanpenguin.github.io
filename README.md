@@ -27,7 +27,7 @@
 - K7: [General Purpose Coding,Ansible and Terraform](https://youtu.be/zxUw3sPuvVc)
 - K8: [Immutable Infrastructure - Docker Swarm](https://youtu.be/rCycpqBzUlk)
 - K9: [Working with Different Organizational Cultures](https://youtu.be/jgdkp3QcFOU)
-- S5: [Immutable Infrastructure](https://youtu.be/t3O4PVImrK8)
+- S5: [Immutable Infrastructure: Packer, Vagrant and Rocky Linux](https://youtu.be/t3O4PVImrK8)
 - S6: [Install, Manage and Troubleshoot Monitoring Tools](https://theurbanpenguin.github.io/elastic/)
 
 
