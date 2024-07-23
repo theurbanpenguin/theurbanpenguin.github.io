@@ -18,17 +18,18 @@
 
 ## Apprenticeships
 ### DevOps Engineer KSBs
-- K1: [Continuous Integration](https://youtu.be/_wLuEHDTtCk)
-- K2: [Source Control](https://youtu.be/8xpvAXplWMc)
-- K3: [Ethical Use of Data](https://youtu.be/7oQL200w01s)
-- K4: [Business Value of DevOps](https://youtu.be/YmbrbFUpcEI)
-- K5: [Modern Security Tools](https://youtu.be/N2hLR16lK3Y)
-- K6: [Effective Troubleshooting Methodologies](https://youtu.be/PQ8RW9plv0g)
-- K7: [General Purpose Coding,Ansible and Terraform](https://youtu.be/zxUw3sPuvVc)
-- K8: [Immutable Infrastructure - Docker Swarm](https://youtu.be/rCycpqBzUlk)
-- K9: [Working with Different Organizational Cultures](https://youtu.be/jgdkp3QcFOU)
-- S5: [Immutable Infrastructure: Packer, Vagrant and Rocky Linux](https://youtu.be/t3O4PVImrK8)
-- S6: [Install, Manage and Troubleshoot Monitoring Tools](https://theurbanpenguin.github.io/elastic/)
+- K01: [Continuous Integration](https://youtu.be/_wLuEHDTtCk)
+- K02: [Source Control](https://youtu.be/8xpvAXplWMc)
+- K03: [Ethical Use of Data](https://youtu.be/7oQL200w01s)
+- K04: [Business Value of DevOps](https://youtu.be/YmbrbFUpcEI)
+- K05: [Modern Security Tools](https://youtu.be/N2hLR16lK3Y)
+- K06: [Effective Troubleshooting Methodologies](https://youtu.be/PQ8RW9plv0g)
+- K07: [General Purpose Coding,Ansible and Terraform](https://youtu.be/zxUw3sPuvVc)
+- K08: [Immutable Infrastructure - Docker Swarm](https://youtu.be/rCycpqBzUlk)
+- K09: [Working with Different Organizational Cultures](https://youtu.be/jgdkp3QcFOU)
+- K10: [Understanding User Needs](https://youtu.be/QChw6ATERuM)
+- S05: [Immutable Infrastructure: Packer, Vagrant and Rocky Linux](https://youtu.be/t3O4PVImrK8)
+- S06: [Install, Manage and Troubleshoot Monitoring Tools](https://theurbanpenguin.github.io/elastic/)
 
 
 Thank you for visiting
