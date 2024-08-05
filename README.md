@@ -29,6 +29,7 @@
 - K09: [Working with Different Organizational Cultures](https://youtu.be/jgdkp3QcFOU)
 - K10: [Understanding User Needs](https://youtu.be/QChw6ATERuM)
 - K11: [Monitoring and Alerts Using Nagios Core](https://youtu.be/Co-6RdPJFxg)
+- K12: [Using REDIS and the Persistence Data Layer](https://youtu.be/eY0WvrsPDPQ)
 - S05: [Immutable Infrastructure: Packer, Vagrant and Rocky Linux](https://youtu.be/t3O4PVImrK8)
 - S06: [Install, Manage and Troubleshoot Monitoring Tools](https://theurbanpenguin.github.io/elastic/)
 
