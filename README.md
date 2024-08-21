@@ -13,6 +13,7 @@
 ---
 ## Coding in Python
 - [Python Weather App](https://theurbanpenguin.github.io/weather_app/)
+- [Python Packages, Modules and pyproject.toml](https://youtu.be/m2EAQk4Qlew)
 
 ---
 
