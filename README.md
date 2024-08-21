@@ -38,6 +38,12 @@
 - K10: [Understanding User Needs](https://youtu.be/QChw6ATERuM)
 - K11: [Monitoring and Alerts Using Nagios Core](https://youtu.be/Co-6RdPJFxg)
 - K12: [Using REDIS and the Persistence Data Layer](https://youtu.be/eY0WvrsPDPQ)
+- K13: [Automation and using APIs](https://youtu.be/hrzYr9e54U4)
+- K14: [TDD and the Test Pyramid](https://youtu.be/_br7KEmx_AA)
+- K15: [Continuous Integration, Development and Deployment](https://youtu.be/hPlBnq46b48)
+- K16: [Encryption and ACLs: Security 101](https://youtu.be/4xfmaOWz0W0)
+- K17: [Using APIs in your Code](https://youtu.be/fkl_1FJet3M)
+- K18: [Roles in a DevOps Team](https://youtu.be/j2TCHnnDZqE)
 - S05: [Immutable Infrastructure: Packer, Vagrant and Rocky Linux](https://youtu.be/t3O4PVImrK8)
 - S06: [Install, Manage and Troubleshoot Monitoring Tools](https://theurbanpenguin.github.io/elastic/)
 
