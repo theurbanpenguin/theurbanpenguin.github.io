@@ -14,6 +14,7 @@
 ## Coding in Python
 - [Python Weather App](https://theurbanpenguin.github.io/weather_app/)
 - [Python Packages, Modules and pyproject.toml](https://youtu.be/m2EAQk4Qlew)
+- [Python Linting with Black and the Pyproject.toml File](https://youtu.be/qKQUKRZPsyY)
 
 ---
 
