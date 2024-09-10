@@ -10,6 +10,13 @@
 - [Configuring the Git Daemon](https://theurbanpenguin.github.io/git-daemon/)
 - [Configuring Git with Apache](https://theurbanpenguin.github.io/git-httpd/)
 
+## JetBrains
+- [C# on Linux Using Rider](https://youtu.be/r-DbaM2IE8g)
+
+---
+## Coding in C#
+- [Understanding the Structure os a C# Solution from the CLI](https://youtu.be/-6OADsBLYns)
+
 ---
 ## Coding in Python
 - [Python Weather App](https://theurbanpenguin.github.io/weather_app/)
