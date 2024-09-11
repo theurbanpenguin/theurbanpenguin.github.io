@@ -16,6 +16,7 @@
 ---
 ## Coding in C#
 - [Understanding the Structure os a C# Solution from the CLI](https://youtu.be/-6OADsBLYns)
+- [Creating and Emoji Class Library](https://youtu.be/MBOybAI4ySY)
 
 ---
 ## Coding in Python
