@@ -18,6 +18,7 @@
 - [Installing JetBrain Rider IDE on Ubuntu 22.04](https://youtu.be/r-DbaM2IE8g)
 - [Understanding the Structure os a C# Solution from the CLI](https://youtu.be/-6OADsBLYns)
 - [Creating and Emoji Class Library](https://youtu.be/MBOybAI4ySY)
+- [Understanding the static Modifier](https://youtu.be/4lGiS29iHQA)
 
 ---
 ## Coding in Python
