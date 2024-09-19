@@ -19,6 +19,7 @@
 - [Understanding the Structure os a C# Solution from the CLI](https://youtu.be/-6OADsBLYns)
 - [Creating and Emoji Class Library](https://youtu.be/MBOybAI4ySY)
 - [Understanding the static Modifier](https://youtu.be/4lGiS29iHQA)
+- [Understanding Simple Methods](https://youtu.be/MXgh7tKHexc)
 
 ---
 ## Coding in Python
