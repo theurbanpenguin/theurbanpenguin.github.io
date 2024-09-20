@@ -20,6 +20,7 @@
 - [Creating and Emoji Class Library](https://youtu.be/MBOybAI4ySY)
 - [Understanding the static Modifier](https://youtu.be/4lGiS29iHQA)
 - [Understanding Simple Methods](https://youtu.be/MXgh7tKHexc)
+- [Creating Multi-Threaded Application](https://youtu.be/9bQsWViCHoo)
 
 ---
 ## Coding in Python
