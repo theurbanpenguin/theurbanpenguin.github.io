@@ -21,6 +21,7 @@
 - [Understanding the static Modifier](https://youtu.be/4lGiS29iHQA)
 - [Understanding Simple Methods](https://youtu.be/MXgh7tKHexc)
 - [Creating Multi-Threaded Application](https://youtu.be/9bQsWViCHoo)
+- [Publishing Cross-Platform Apps](https://youtu.be/5XP8ihWEieI)
 
 ---
 ## Coding in Python
