@@ -16,6 +16,7 @@
 ---
 
 ## Bash Scripting
+ 
 - [Masterclass in Scripting](https://youtu.be/lmFD_JdER3k)
 ---
 ## Coding in C#
