@@ -29,6 +29,12 @@
 - [Using Property Methods](https://youtu.be/FE2hVIaqwgg)
 
 ---
+## Python Certified Entry-Level Programmer
+> Getting you started with The Python Institute's PCEP Certification 
+- [PCEP-001: Introduction to PCEP](https://youtu.be/FD_jv7BIAv8)
+- [PCEP-002: Installing Python on Windows](https://youtu.be/r936Hduxcto)
+- [PCEP-003: Working with Python on Linux](https://youtu.be/5E_kw_s0CNo)
+---
 ## Coding in Python
 - [Python Weather App](https://theurbanpenguin.github.io/weather_app/)
 - [Python Packages, Modules and pyproject.toml](https://youtu.be/m2EAQk4Qlew)
