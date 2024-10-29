@@ -18,7 +18,9 @@
 ## Bash Scripting
  
 - [Masterclass in Scripting](https://youtu.be/lmFD_JdER3k)
+
 ---
+
 ## Coding in C#
 - [Installing JetBrain Rider IDE on Ubuntu 22.04](https://youtu.be/r-DbaM2IE8g)
 - [Understanding the Structure os a C# Solution from the CLI](https://youtu.be/-6OADsBLYns)
