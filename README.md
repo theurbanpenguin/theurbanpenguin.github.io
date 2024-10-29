@@ -34,7 +34,7 @@
 ## Python Certified Entry-Level Programmer
 
 > Getting you started with The Python Institute's PCEP Certification 
-- 
+
 - [PCEP-001: Introduction to PCEP](https://youtu.be/FD_jv7BIAv8)
 - [PCEP-002: Installing Python on Windows](https://youtu.be/r936Hduxcto)
 - [PCEP-003: Working with Python on Linux](https://youtu.be/5E_kw_s0CNo)
