@@ -40,6 +40,8 @@
 - [PCEP-001: Introduction to PCEP](https://youtu.be/FD_jv7BIAv8)
 - [PCEP-002: Installing Python on Windows](https://youtu.be/r936Hduxcto)
 - [PCEP-003: Working with Python on Linux](https://youtu.be/5E_kw_s0CNo)
+- [PCEP-004: Installing Python on MacOS](https://youtu.be/pH2F7NlWEl0)
+- [PCEP-005: Comparing Notepad with Notepad++ as a simple script editor](https://youtu.be/l5427f7Rzlg)
 
 ---
 
