@@ -42,6 +42,7 @@
 - [PCEP-003: Working with Python on Linux](https://youtu.be/5E_kw_s0CNo)
 - [PCEP-004: Installing Python on MacOS](https://youtu.be/pH2F7NlWEl0)
 - [PCEP-005: Comparing Notepad with Notepad++ as a simple script editor](https://youtu.be/l5427f7Rzlg)
+- [PCEP-006: Writing Python Scripts with Visual Studio Code on Windows](https://youtu.be/_ZBvBkfRLKg)
 
 ---
 
