@@ -44,6 +44,7 @@
 - [PCEP-005: Comparing Notepad with Notepad++ as a simple script editor](https://youtu.be/l5427f7Rzlg)
 - [PCEP-006: Writing Python Scripts with Visual Studio Code on Windows](https://youtu.be/_ZBvBkfRLKg)
 - [PCEP-007: Writing Python Scripts with PyCharm on Ubuntu Linux](https://youtu.be/VUeB8DTYzsI)
+- [PCEP-008: Using Jupyter Notebooks in Windows](https://youtu.be/YZjFFIDWu_M)
 
 ---
 
