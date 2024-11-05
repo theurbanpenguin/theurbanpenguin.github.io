@@ -45,7 +45,7 @@
 - [PCEP-006: Writing Python Scripts with Visual Studio Code on Windows](https://youtu.be/_ZBvBkfRLKg)
 - [PCEP-007: Writing Python Scripts with PyCharm on Ubuntu Linux](https://youtu.be/VUeB8DTYzsI)
 - [PCEP-008: Using Jupyter Notebooks in Windows](https://youtu.be/YZjFFIDWu_M)
-
+- [PCEP-009: Using Jupyter Notebooks on Ubuntu Linux](https://youtu.be/u76hQDw4f14)
 ---
 
 ## Coding in Python
