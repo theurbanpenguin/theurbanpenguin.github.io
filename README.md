@@ -49,6 +49,7 @@
 - [PCEP-008: Using Jupyter Notebooks in Windows](https://youtu.be/YZjFFIDWu_M)
 - [PCEP-009: Using Jupyter Notebooks on Ubuntu Linux](https://youtu.be/u76hQDw4f14)
 - [PCEP-010: Summarizing Installation, Editing and Executing Scripts ](https://youtu.be/hhKpCRrRE_c)
+- [PCEP-011: Compiled Code vs Interpreted Code](https://youtu.be/84vpDaMPGjg)
 
 ---
 
