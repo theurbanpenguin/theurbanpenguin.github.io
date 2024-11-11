@@ -51,6 +51,7 @@
 - [PCEP-010: Summarizing Installation, Editing and Executing Scripts ](https://youtu.be/hhKpCRrRE_c)
 - [PCEP-011: Compiled Code vs Interpreted Code](https://youtu.be/84vpDaMPGjg)
 - [PCEP-012: Understanding the Lexis of Python](https://youtu.be/loI6tyVVFdQ)
+- [PCEP-013: The Python Syntax](https://youtu.be/9XDhZigZqgU)
 
 ---
 
