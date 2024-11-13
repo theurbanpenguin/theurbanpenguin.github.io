@@ -49,6 +49,9 @@
 - [PCEP-008: Using Jupyter Notebooks in Windows](https://youtu.be/YZjFFIDWu_M)
 - [PCEP-009: Using Jupyter Notebooks on Ubuntu Linux](https://youtu.be/u76hQDw4f14)
 - [PCEP-010: Summarizing Installation, Editing and Executing Scripts ](https://youtu.be/hhKpCRrRE_c)
+
+> Fundamentals of Computer Programming - Getting to grips with Python
+
 - [PCEP-011: Compiled Code vs Interpreted Code](https://youtu.be/84vpDaMPGjg)
 - [PCEP-012: Understanding the Lexis of Python](https://youtu.be/loI6tyVVFdQ)
 - [PCEP-013: The Python Syntax](https://youtu.be/9XDhZigZqgU)
