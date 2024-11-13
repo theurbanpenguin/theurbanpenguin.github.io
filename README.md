@@ -53,6 +53,7 @@
 - [PCEP-012: Understanding the Lexis of Python](https://youtu.be/loI6tyVVFdQ)
 - [PCEP-013: The Python Syntax](https://youtu.be/9XDhZigZqgU)
 - [PCEP-014: Semantics of the Python Language](https://youtu.be/b9E9UgoOtYM)
+- [PCEP-015: Python Keywords](https://youtu.be/CvEUZX6ZIEs)
 
 ---
 
