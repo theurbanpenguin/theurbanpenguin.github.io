@@ -58,6 +58,7 @@
 - [PCEP-014: Semantics of the Python Language](https://youtu.be/b9E9UgoOtYM)
 - [PCEP-015: Python Keywords](https://youtu.be/CvEUZX6ZIEs)
 - [PCEP-016: Python Instructions](https://youtu.be/H4N59rYuKc8)
+- [PCEP-017: Managing Indentation in Python](https://youtu.be/HtltRao1Uo0)
 
 ---
 
