@@ -59,6 +59,7 @@
 - [PCEP-015: Python Keywords](https://youtu.be/CvEUZX6ZIEs)
 - [PCEP-016: Python Instructions](https://youtu.be/H4N59rYuKc8)
 - [PCEP-017: Managing Indentation in Python](https://youtu.be/HtltRao1Uo0)
+- [PCEP-018: Managing Comments and Docstrings](https://youtu.be/lHoEPcdbKzA)
 
 ---
 
