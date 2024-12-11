@@ -62,6 +62,7 @@
 - [PCEP-018: Managing Comments and Docstrings](https://youtu.be/lHoEPcdbKzA)
 - [PCEP-019: Data Types: Booleans, Integers and Floats](https://youtu.be/P2UNm8ckJLU)
 - [PCEP-020: Understanding Scientific Notation](https://youtu.be/p2FBp5KN4VA)
+- [PCEP-021: Working with Python Strings](https://youtu.be/xhmfTohB-rY)
 
 ---
 
