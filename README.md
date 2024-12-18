@@ -63,6 +63,7 @@
 - [PCEP-019: Data Types: Booleans, Integers and Floats](https://youtu.be/P2UNm8ckJLU)
 - [PCEP-020: Understanding Scientific Notation](https://youtu.be/p2FBp5KN4VA)
 - [PCEP-021: Working with Python Strings](https://youtu.be/xhmfTohB-rY)
+- [PCEP-022: Working with Number Formats and Decimal to Binary IP Conversion](https://youtu.be/dhpx9EOA_40)
 
 ---
 
