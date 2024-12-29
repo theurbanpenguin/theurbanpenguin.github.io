@@ -65,6 +65,7 @@
 - [PCEP-021: Working with Python Strings](https://youtu.be/xhmfTohB-rY)
 - [PCEP-022: Working with Number Formats and Decimal to Binary IP Conversion](https://youtu.be/dhpx9EOA_40)
 - [PCEP-023: Working with Variables](https://youtu.be/kH3GwOZGYJE)
+- [PCEP : Where can you aim - Working with Python Modules](https://youtu.be/HcRnZ7ZTJZQ)
 
 ---
 
@@ -73,6 +74,7 @@
 - [Python Packages, Modules and pyproject.toml](https://youtu.be/m2EAQk4Qlew)
 - [Python Linting with Black and the Pyproject.toml File](https://youtu.be/qKQUKRZPsyY)
 - [Comparing Interpreted Languages with Compiled Languages](https://youtu.be/WMNctE5Gy6A)
+- [Working with Ansible Modules](https://youtu.be/HcRnZ7ZTJZQ)
 
 ---
 
