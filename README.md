@@ -65,7 +65,8 @@
 - [PCEP-021: Working with Python Strings](https://youtu.be/xhmfTohB-rY)
 - [PCEP-022: Working with Number Formats and Decimal to Binary IP Conversion](https://youtu.be/dhpx9EOA_40)
 - [PCEP-023: Working with Variables](https://youtu.be/kH3GwOZGYJE)
-- [PCEP : Where can you aim - Working with Python Modules](https://youtu.be/HcRnZ7ZTJZQ)
+- [PCEP : Where can you aim - Working with Ansible Modules](https://youtu.be/HcRnZ7ZTJZQ)
+- [PCEP-024: Numeric operators](https://youtu.be/-i7wUw6Cly0)
 
 ---
 
