@@ -68,6 +68,7 @@
 - [PCEP : Where can you aim - Working with Ansible Modules](https://youtu.be/HcRnZ7ZTJZQ)
 - [PCEP-024: Numeric operators](https://youtu.be/-i7wUw6Cly0)
 - [PCEP-025: Binary and Unary Operators](https://youtu.be/iqyNHcRLBPI)
+- [PCEP-025: Mastering Bitwise Operators](https://youtu.be/nNcrtyigrz8)
 
 ---
 
