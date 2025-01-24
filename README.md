@@ -70,6 +70,7 @@
 - [PCEP-025: Binary and Unary Operators](https://youtu.be/iqyNHcRLBPI)
 - [PCEP-026: Mastering Bitwise Operators](https://youtu.be/nNcrtyigrz8)
 - [PCEP-027: Mastering the Bitwise NOT (~)](https://youtu.be/3Pj2qGUXOtA)
+- [PCEP: Where to Aim: Python for Data Analysts](https://youtu.be/_vCeQOPlYsQ)
 
 ---
 
