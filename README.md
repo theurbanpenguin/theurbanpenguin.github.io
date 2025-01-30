@@ -71,7 +71,7 @@
 - [PCEP-026: Mastering Bitwise Operators](https://youtu.be/nNcrtyigrz8)
 - [PCEP-027: Mastering the Bitwise NOT (~)](https://youtu.be/3Pj2qGUXOtA)
 - [PCEP: Where to Aim: Python for Data Analysts](https://youtu.be/_vCeQOPlYsQ)
-
+- [PCEP-029: Casting Data Types](https://youtu.be/jN6IGXSVaSg)
 ---
 
 ## Coding in Python
